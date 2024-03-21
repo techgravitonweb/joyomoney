@@ -1,0 +1,6 @@
+.list-group-item:hover{
+    background-color: blue;
+    color: white;
+    padding: 7px; 
+    border-radius: 5px;
+}
